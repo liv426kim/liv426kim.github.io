@@ -1,0 +1,30 @@
+---
+title: "Olivia Kim"
+about:
+  template: broadside
+  image: assets/headshot.jpg
+  links:
+    - icon: inbox
+      text: Email
+      href: mailto:nahyonkim26@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+:::{#hero-heading}
+
+Olivia Kim is an undergraduate student at Duke University, Class of 2026. She is pursuing a Bachelor's of Science in Biology with a minor in Chemistry and a Health Policy Certificate. She aims to solve complex healthcare system challenges by combining disciplines in life sciences, data analytics, and policy analysis to create transformative healthcare strategies and infrastructure designs. Currently, Olivia works as a student analyst/consultant for North Carolina's statewide health information exchange, NC HealthConnex, as part of a team to assess and plan the implementation of a fully functional health data utility. Additionally, Olivia is one of only four undergraduate scholars at the Margolis Institute for Health Policy, a role for those focused on innovative healthcare management and system improvement research. 
+
+## Education
+
+Duke University | Durham, North Carolina
+B.S in Biology | August 2022 - May 2026
+
+## Experience
+
+NC HealthConnex | Student Analyst | October 2024 - present
+
+FamiliesUSA | Health Policy Intern | May 2024 - August 2024
+
+:::

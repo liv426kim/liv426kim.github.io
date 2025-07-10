@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing: 
+  contents: projects
+  type: default
+  sort:
+    - "date"
+    - "title desc"
+---
+

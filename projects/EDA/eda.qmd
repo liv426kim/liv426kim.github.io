@@ -1,0 +1,15 @@
+---
+title: "Exploratory Data Analysis of Covid Vaccine Distribution in California"
+date: "June 2025"
+about: 
+  template: solana
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/liv426kim/EDA_COVID_Vax"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1cF7XaAD7wFIbbZJCLsyBthlg6e0TBr9GTeJ66G95Ny0/edit?usp=sharing"
+---
+
+This is my EDA project which I collaborated on with Arturo Espana and Jordan Faustin,  students in the Bridges to Healthcare Technology program, which is a joint experience between Carnegie Mellon University and UnitedHealth Group. 

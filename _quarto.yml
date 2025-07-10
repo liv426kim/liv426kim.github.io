@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "liv426kim.github.io"
+  navbar:
+    background: "#b8dbd3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/olivia-kim-103632233
+
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+execute: 
+  freeze: auto
