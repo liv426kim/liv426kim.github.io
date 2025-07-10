@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "test/test.html",
+    "href": "test/test.html",
+    "title": "test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test/test.html#quarto",
+    "href": "test/test.html#quarto",
+    "title": "test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "projects/EDA/eda.html",
+    "href": "projects/EDA/eda.html",
+    "title": "Exploratory Data Analysis of Covid Vaccine Distribution in California",
+    "section": "",
+    "text": "This is my EDA project which I collaborated on with Arturo Espana and Jordan Faustin, students in the Bridges to Healthcare Technology program, which is a joint experience between Carnegie Mellon University and UnitedHealth Group."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Olivia Kim",
+    "section": "",
+    "text": "Olivia Kim is an undergraduate student at Duke University, Class of 2026. She is pursuing a Bachelor’s of Science in Biology with a minor in Chemistry and a Health Policy Certificate. She aims to solve complex healthcare system challenges by combining disciplines in life sciences, data analytics, and policy analysis to create transformative healthcare strategies and infrastructure designs. Currently, Olivia works as a student analyst/consultant for North Carolina’s statewide health information exchange, NC HealthConnex, as part of a team to assess and plan the implementation of a fully functional health data utility. Additionally, Olivia is one of only four undergraduate scholars at the Margolis Institute for Health Policy, a role for those focused on innovative healthcare management and system improvement research.\n\n\nDuke University | Durham, North Carolina B.S in Biology | August 2022 - May 2026\n\n\n\nNC HealthConnex | Student Analyst | October 2024 - present\nFamiliesUSA | Health Policy Intern | May 2024 - August 2024"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Olivia Kim",
+    "section": "",
+    "text": "Duke University | Durham, North Carolina B.S in Biology | August 2022 - May 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Olivia Kim",
+    "section": "",
+    "text": "NC HealthConnex | Student Analyst | October 2024 - present\nFamiliesUSA | Health Policy Intern | May 2024 - August 2024"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nHi! This is my personal website."
+  },
+  {
+    "objectID": "projects/capstone/capstone.html",
+    "href": "projects/capstone/capstone.html",
+    "title": "Capstone",
+    "section": "",
+    "text": "This is my captstone project that my team of three student researchers produced for the Bridges to Healthcare Technology Program under Carnegie Mellon University and UnitedHealth Group. We aimed to explore and understand the influences on teen birth rates by analyzing county-level data to reach actionable insights and a reccomendation for UHG."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Exploratory Data Analysis of Covid Vaccine Distribution in California\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nAnalyzing predictors and outcomes of teen birth rates in U.S.\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\nNo matching items"
+  }
+]
