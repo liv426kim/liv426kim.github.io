@@ -14,5 +14,13 @@ listing:
 Machine learning & policy analysis identifying key socioeconomic predictors of teen pregnancy.
 
 [View Full Report →](projects/capstone/report.html){target="_blank"}
+
+<!-- Link to full capstone report -->
+<p>
+  <a href="projects/capstone/report.html" target="_blank">
+    View full Capstone report →
+  </a>
+</p>
+
 :::
 
