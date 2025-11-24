@@ -1,0 +1,22 @@
+---
+title: "North Carolina Health Data Utility Consulting Project"
+date-range: "October 2024 – November 2025"
+---
+
+## Research Poster
+
+This project aims to assess and plan a transition for North Carolina's statewide Health Information Exchange (HIE) to become a mature Health Data Utility (HDU). By addressing policy and infrastructure barriers to overcome data interoperability issues across organizations, our goal is to improve care coordination, closed-loop referral tracking, and access to non-medical interventions. This poster was presented at Academy Health's 2025 Annual Research Meeting and American Medical Informatics Association 2025 Annual Symposium. 
+
+![](HDUPoster.jpg){width="100%" fig-align="center"}
+
+## HDU One-Pager
+
+This one-pager shows more of our use cases that stakeholders from clinical and DHHS settings brought to our team for us to design pathways for.
+
+::: {.pdf-embed}
+<iframe src="HDU_OnePager.pdf.pdf" width="100%" height="800" style="border:none;">
+  Your browser does not support embedded PDFs.  
+  You can download it instead:
+  <a href="HDU_OnePager.pdf.pdf" target="_blank">Download PDF</a>
+</iframe>
+:::

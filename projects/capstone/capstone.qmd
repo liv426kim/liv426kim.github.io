@@ -1,5 +1,5 @@
 ---
-title: "Capstone"
+title: "UHG | Carnegie Mellon UniversityCapstone"
 description: Analyzing predictors and outcomes of teen birth rates in U.S.
 date: "July 25 2025"
 about: 
@@ -13,4 +13,11 @@ about:
       href: "https://docs.google.com/presentation/d/1Xw-P000h6PeH2lVk38LxFigbd1jKXsbymGXBp1jv0UQ/edit?usp=sharing"
 ---
 
-This is my captstone project that my team of three student researchers produced for the Bridges to Healthcare Technology Program under Carnegie Mellon University and UnitedHealth Group. We aimed to explore and understand the influences on teen birth rates by analyzing county-level data to reach actionable insights and a reccomendation for UHG. 
+This is my capstone project that my team of three student researchers produced for the Bridges to Healthcare Technology Program under Carnegie Mellon University and UnitedHealth Group. We aimed to explore and understand the influences on teen birth rates by analyzing county-level data to reach actionable insights and a recommendation for UHG. 
+
+## Full report
+
+<iframe src="report.html" style="width:100%; height:1000px; border:none;">
+Your browser does not support iframes. You can open the report
+<a href="report.html" target="_blank">here</a>.
+</iframe>

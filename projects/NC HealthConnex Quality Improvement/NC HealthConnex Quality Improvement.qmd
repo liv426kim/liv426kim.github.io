@@ -1,0 +1,18 @@
+---
+title: "NC HealthConnex Quality Improvement"
+format: html
+
+description: This work supports the HIEA's new Quality Improvement team, where I am developing reports on progress toward the organization's 2030 Roadmap Goals, writing research policies, and building documents for legislative communication. 
+---
+# Staff-Assessed Accomplishments, Barriers, Opportunities
+
+This one-pager was presented to the Board to reflect how staff respond to how they plan to achieve the 2030 Roadmap Goals. 
+
+::: {.pdf-embed}
+<iframe src="RoadmapWorkshopOP.pdf" width="100%" height="800" style="border:none;">
+  Your browser does not support embedded PDFs.  
+  You can download it instead:
+  <a href="RoadmapWorkshopOP.pdf" target="_blank">Download PDF</a>
+</iframe>
+:::
+
