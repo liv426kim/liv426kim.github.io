@@ -3,7 +3,9 @@
     "listing": "/projects.html",
     "items": [
       "/projects/EDA/eda.html",
-      "/projects/capstone/capstone.html"
+      "/projects/capstone/capstone.html",
+      "/projects/NC Health Data Utility/NCHDU.html",
+      "/projects/NC HealthConnex Quality Improvement/NC HealthConnex Quality Improvement.html"
     ]
   }
 ]

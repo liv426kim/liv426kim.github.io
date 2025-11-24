@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "test/test.html",
-    "href": "test/test.html",
-    "title": "test",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "test/test.html#quarto",
-    "href": "test/test.html#quarto",
-    "title": "test",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
-  },
-  {
-    "objectID": "projects/EDA/eda.html",
-    "href": "projects/EDA/eda.html",
-    "title": "Exploratory Data Analysis of Covid Vaccine Distribution in California",
-    "section": "",
-    "text": "This is my EDA project which I collaborated on with Arturo Espana and Jordan Faustin, students in the Bridges to Healthcare Technology program, which is a joint experience between Carnegie Mellon University and UnitedHealth Group."
+    "text": "Exploratory Data Analysis of Covid Vaccine Distribution in California\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nUHG | Carnegie Mellon UniversityCapstone\n\n\nAnalyzing predictors and outcomes of teen birth rates in U.S.\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNorth Carolina Health Data Utility Consulting Project\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNC HealthConnex Quality Improvement\n\n\nThis work supports the HIEA’s new Quality Improvement team, where I am developing reports on progress toward the organization’s 2030 Roadmap Goals, writing research policies, and building documents for legislative communication.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -42,6 +28,34 @@
     "text": "NC HealthConnex | Student Analyst | October 2024 - present\nFamiliesUSA | Health Policy Intern | May 2024 - August 2024"
   },
   {
+    "objectID": "projects/NC Health Data Utility/NCHDU.html",
+    "href": "projects/NC Health Data Utility/NCHDU.html",
+    "title": "North Carolina Health Data Utility Consulting Project",
+    "section": "",
+    "text": "This project aims to assess and plan a transition for North Carolina’s statewide Health Information Exchange (HIE) to become a mature Health Data Utility (HDU). By addressing policy and infrastructure barriers to overcome data interoperability issues across organizations, our goal is to improve care coordination, closed-loop referral tracking, and access to non-medical interventions. This poster was presented at Academy Health’s 2025 Annual Research Meeting and American Medical Informatics Association 2025 Annual Symposium."
+  },
+  {
+    "objectID": "projects/NC Health Data Utility/NCHDU.html#research-poster",
+    "href": "projects/NC Health Data Utility/NCHDU.html#research-poster",
+    "title": "North Carolina Health Data Utility Consulting Project",
+    "section": "",
+    "text": "This project aims to assess and plan a transition for North Carolina’s statewide Health Information Exchange (HIE) to become a mature Health Data Utility (HDU). By addressing policy and infrastructure barriers to overcome data interoperability issues across organizations, our goal is to improve care coordination, closed-loop referral tracking, and access to non-medical interventions. This poster was presented at Academy Health’s 2025 Annual Research Meeting and American Medical Informatics Association 2025 Annual Symposium."
+  },
+  {
+    "objectID": "projects/NC Health Data Utility/NCHDU.html#hdu-one-pager",
+    "href": "projects/NC Health Data Utility/NCHDU.html#hdu-one-pager",
+    "title": "North Carolina Health Data Utility Consulting Project",
+    "section": "HDU One-Pager",
+    "text": "HDU One-Pager\nThis one-pager shows more of our use cases that stakeholders from clinical and DHHS settings brought to our team for us to design pathways for.\n\n\nYour browser does not support embedded PDFs.&lt;br /&gt;\nYou can download it instead: &lt;a href=\"HDU_OnePager.pdf.pdf\" target=\"_blank\"&gt;Download PDF&lt;/a&gt;"
+  },
+  {
+    "objectID": "projects/NC HealthConnex Quality Improvement/NC HealthConnex Quality Improvement.html",
+    "href": "projects/NC HealthConnex Quality Improvement/NC HealthConnex Quality Improvement.html",
+    "title": "NC HealthConnex Quality Improvement",
+    "section": "",
+    "text": "Staff-Assessed Accomplishments, Barriers, Opportunities\nThis one-pager was presented to the Board to reflect how staff respond to how they plan to achieve the 2030 Roadmap Goals.\n\n\nYour browser does not support embedded PDFs.&lt;br /&gt;\nYou can download it instead: &lt;a href=\"RoadmapWorkshopOP.pdf\" target=\"_blank\"&gt;Download PDF&lt;/a&gt;"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -51,15 +65,36 @@
   {
     "objectID": "projects/capstone/capstone.html",
     "href": "projects/capstone/capstone.html",
-    "title": "Capstone",
+    "title": "UHG | Carnegie Mellon UniversityCapstone",
     "section": "",
-    "text": "This is my captstone project that my team of three student researchers produced for the Bridges to Healthcare Technology Program under Carnegie Mellon University and UnitedHealth Group. We aimed to explore and understand the influences on teen birth rates by analyzing county-level data to reach actionable insights and a reccomendation for UHG."
+    "text": "This is my capstone project that my team of three student researchers produced for the Bridges to Healthcare Technology Program under Carnegie Mellon University and UnitedHealth Group. We aimed to explore and understand the influences on teen birth rates by analyzing county-level data to reach actionable insights and a recommendation for UHG."
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "projects/capstone/capstone.html#full-report",
+    "href": "projects/capstone/capstone.html#full-report",
+    "title": "UHG | Carnegie Mellon UniversityCapstone",
+    "section": "Full report",
+    "text": "Full report\n\nYour browser does not support iframes. You can open the report &lt;a href=\"report.html\" target=\"_blank\"&gt;here&lt;/a&gt;."
+  },
+  {
+    "objectID": "projects/EDA/eda.html",
+    "href": "projects/EDA/eda.html",
+    "title": "Exploratory Data Analysis of Covid Vaccine Distribution in California",
     "section": "",
-    "text": "Exploratory Data Analysis of Covid Vaccine Distribution in California\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nAnalyzing predictors and outcomes of teen birth rates in U.S.\n\n\n\n\n\nJul 25, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "This is my EDA project which I collaborated on with Arturo Espana and Jordan Faustin, students in the Bridges to Healthcare Technology program, which is a joint experience between Carnegie Mellon University and UnitedHealth Group."
+  },
+  {
+    "objectID": "test/test.html",
+    "href": "test/test.html",
+    "title": "test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test/test.html#quarto",
+    "href": "test/test.html#quarto",
+    "title": "test",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   }
 ]
