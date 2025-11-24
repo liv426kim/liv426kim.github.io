@@ -6,6 +6,7 @@ listing:
   sort:
     - "date"
     - "title desc"
+---
 
 <!-- CAPSTONE PROJECT -->
 ::: {class="project-card"}
@@ -14,6 +15,4 @@ Machine learning & policy analysis identifying key socioeconomic predictors of t
 
 [View Full Report →](projects/capstone/report.html){target="_blank"}
 :::
-
----
 
