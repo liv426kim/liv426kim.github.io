@@ -20,3 +20,19 @@ This one-pager shows more of our use cases that stakeholders from clinical and D
   <a href="HDU_OnePager.pdf.pdf" target="_blank">Download PDF</a>
 </iframe>
 :::
+
+## Health Data Utility Overview Roadshow Presentation
+
+This is a more comprehensive, foundational explanation of this initiative. It discusses consent requirements, as well as technical requirements, and stakeholder mapping. 
+
+::: {.pdf-embed}
+<iframe src="HDU-Overview-Roadshow.pdf.pdf" width="100%" height="800" style="border:none;">
+  Your browser does not support embedded PDFs.  
+  You can download it instead:
+  <a href="HDU-Overview-Roadshow.pdf.pdf" target="_blank">Download PDF</a>
+</iframe>
+:::
+
+
+
+
